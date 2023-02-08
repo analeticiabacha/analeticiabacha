@@ -4,7 +4,7 @@
 - 👩🏻‍💻 Aspirante à Dev
 - 🎓 Engenheira Biomédica 
 - 🙌 Apaixonada por FrontEnd
-- 💛 Aluna da 9ª turma da Lab
+- 💛 Aluna da 9ª turma da [Lab](https://www.laboratoria.la/br).
 - 📩 Entre em contato comigo:
 
 <div>
