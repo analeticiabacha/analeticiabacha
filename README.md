@@ -7,7 +7,9 @@
 - 💛 Aluna da 9ª turma da [Lab](https://www.laboratoria.la/br).
 - 📩 Entre em contato comigo:
 
-
+<div> 
+  <a href="https://www.linkedin.com/in/analeticiabacha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
  
  <div style="display: inline_block"><br>
  
