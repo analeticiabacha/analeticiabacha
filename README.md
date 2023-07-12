@@ -10,7 +10,7 @@
 - 👩🏻‍💻 Aspirante à Dev
 - 🎓 Engenheira Biomédica 
 - 🙌 Apaixonada por FrontEnd
-- 💛 Aluna da 9ª turma da [Lab](https://www.laboratoria.la/br).
+- 💛 Graduada da 9ª turma [< Laboratoria >](https://www.laboratoria.la/br)
 - 📩 Entre em contato comigo: [Linkedin](https://www.linkedin.com/in/analeticiabacha/)
 
  
