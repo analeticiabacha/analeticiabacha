@@ -7,7 +7,7 @@
 ### Olá, sou a Ana Leticia! 👋
 
 
-- 👩🏻‍💻 Aspirante à Dev
+- 👩🏻‍💻 Desenvolvedora Web 
 - 🎓 Engenheira Biomédica 
 - 🙌 Apaixonada por FrontEnd
 - 💛 Graduada da 9ª turma [< Laboratoria >](https://www.laboratoria.la/br)
